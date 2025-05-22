@@ -47,3 +47,7 @@ h1 {
     font-size: 1rem;
     color: #cccccc;
 }
+
+.icon i {
+    margin-right: 8px;
+}
